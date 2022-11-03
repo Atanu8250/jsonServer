@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "caption": "masai school - logo",
+      "image_url": "https://i.ibb.co/yN2msNs/masai-school.png"
+    },
+    {
+      "id": "2",
+      "caption": "Insta-logo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
+    },
+    {
+      "id": "3",
+      "caption": "Holiday's of Masai 20 Block",
+      "image_url": "https://i.ibb.co/09HD3cN/Holidays.png"
+    },
+    {
+      "id": "4",
+      "caption": "Masai",
+      "image_url": "https://i.ibb.co/yN2msNs/masai-school.png"
+    },
+    {
+      "id": "5",
+      "caption": "Meme : But it's not a meme",
+      "image_url": "https://media.sproutsocial.com/uploads/meme-example.jpg"
+    },
+    {
+      "id": "6",
+      "caption": "Kawasaki Ninja H2r",
+      "image_url": "https://i.pinimg.com/736x/38/7d/e5/387de5f08e628ac96e481fcd795e13c2.jpg"
+    },
+    {
+      "id": "7",
+      "caption": "Apache RTR 160",
+      "image_url": "https://bd.gaadicdn.com/processedimages/tvs/apache-160/640X309/apache-1606319b03f3f8ef.jpg"
+    },
+    {
+      "id": "8",
+      "caption": "Lord Krishna 🙏",
+      "image_url": "https://i0.wp.com/www.wordzz.com/wp-content/uploads/2020/12/Lord-Krishna-Flute-Full-Moon.jpg?resize=1052%2C1440&ssl=1"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
